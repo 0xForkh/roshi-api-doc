@@ -43,7 +43,6 @@ Here are the different type of webhooks that ROSHI sends:
         "monthlyIncome": 1000,
         "employmentStatus": "STUDENT",
         "jobTitle": "",
-        "nric": "S0290695C",
         "currentEmploymentTime": "NA",
         "previousEmploymentTime": "NA",
         "propertyOwnership": "HDB",
